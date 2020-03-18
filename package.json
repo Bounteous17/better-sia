@@ -1,0 +1,21 @@
+{
+  "name": "better-sia",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "./bin/setup.sh",
+    "start:siad": "cd ./bin/Sia-Network && ./siad",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bounteous/better-sia.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bounteous/better-sia/issues"
+  },
+  "homepage": "https://github.com/bounteous/better-sia#readme"
+}
